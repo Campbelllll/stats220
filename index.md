@@ -4,3 +4,5 @@
 
 ## Meme Insparation 
 This meme is inspred by one of my close friends. Using Winnie the Pooh to caputure the two stages he goes through after a long night out is not only very accurate, but hilarious too! 
+
+## Meme Code
